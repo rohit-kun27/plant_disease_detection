@@ -17,8 +17,8 @@ Dataset: <a href= "https://www.kaggle.com/datasets/emmarex/plantdisease">Plant V
 <li>Total Images: ~20,000</li>
 <li>15 Classes (Healthy + Diseased Leaves)</li>
 <li>Split used:</li>
-    * 80% Training
-    * 20% Validation
+    - 80% Training
+    - 20% Validation
 
 
 <h2>Tech Stack</h2>
