@@ -35,6 +35,7 @@ Dataset: <a href= "https://www.kaggle.com/datasets/emmarex/plantdisease">Plant V
 - Clone the project:
 ```bash
 git clone https://github.com/rohit-kun27/plant-disease-detection.git
+cd plant-disease-detection
 ```
 
 - Download Model </br>
